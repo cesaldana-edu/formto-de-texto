@@ -1,0 +1,30 @@
+.empire {
+    background-color: red;
+    color: white;
+}
+
+.rebel {
+    background-color: blue;
+    color: white;
+}
+
+#darth {
+    font-size: 6em;
+}
+
+#luke {
+    font-style: italic;
+}
+
+.soldier {
+    border: 4px dashed orange;
+    letter-spacing: 1em;
+}
+
+.apoyo {
+    text-align: center;
+}
+
+.ships li {
+    text-transform: uppercase;
+}
